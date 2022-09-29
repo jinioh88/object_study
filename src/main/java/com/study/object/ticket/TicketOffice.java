@@ -1,7 +1,6 @@
-package com.study.object;
+package com.study.object.ticket;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class TicketOffice {

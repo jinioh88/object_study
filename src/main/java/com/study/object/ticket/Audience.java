@@ -1,4 +1,4 @@
-package com.study.object;
+package com.study.object.ticket;
 
 public class Audience {
 
